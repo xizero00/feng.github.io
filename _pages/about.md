@@ -14,7 +14,7 @@ His research interests include computer vision and machine learning.
 My research goal is to make the machine see and understand the real world.
 I am fortunate to collaborate closely with Xiatian Zhu, Yanghong Zhou and Chen Wang.
 
-Recent News
+# Recent News
 Recent Talk at Aibee Inc. (12 Sep 2021)
 
 New journey begins in NJUPT. (26th May 2021)

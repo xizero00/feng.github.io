@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Feng AT NJUPT"
+title                    : "Inspire the next generation"
 title_separator          : "-"
-name                     : &name "Feng AT NJUPT"
-description              : &description "Feng AT NJUPT"
+name                     : &name "Main"
+description              : &description "Inspire the next generation"
 url                      : https://xizero00.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xizero00/xizero00.github.io"
@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : #&twitter
+# twitter:
+  # username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/xizero00"
+  github           : "xizero00"
   google_plus      :
   keybase          :
   instagram        :
