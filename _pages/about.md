@@ -21,7 +21,7 @@ New journey begins in NJUPT. (26th May 2021)
 
 Graduated from UESTC. (3th Aug 2020)
 
-Selected Publication
+# Selected Publications
 You can find my full publication list on Google Scholar.
 
 
