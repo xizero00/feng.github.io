@@ -1,5 +1,6 @@
 ---
 title: "Distribution-aware coordinate representation for human pose estimation"
+authors: "Feng Zhang, Xiatian Zhu, Hanbin Dai, Mao Ye, Ce Zhu"
 collection: publications
 permalink: /publication/2020-6-15-Distribution-aware coordinate representation for human pose estimation
 date: 2020-6-15

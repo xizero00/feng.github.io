@@ -1,5 +1,6 @@
 ---
 title: "Joint COCO and Mapillary Workshop at ICCV 2019: COCO 2019 Keypoint Detection Challenge Track Technical Report"
+authors: "H Dai, L Zhou, F Zhang, Z Zhang, H Hu, X Zhu, M Ye"
 collection: publications
 permalink: /publication/2020-6-15-COCO 2019 Keypoint Detection Challenge Track Technical Report
 date: 2020-6-15

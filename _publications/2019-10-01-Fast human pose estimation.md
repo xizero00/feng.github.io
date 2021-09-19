@@ -1,5 +1,6 @@
 ---
 title: "Fast human pose estimation"
+authors: "Feng Zhang, Xiatian Zhu, Mao Ye"
 collection: publications
 permalink: /publication/2019-10-01-Fast human pose estimation
 date: 2019-10-01
