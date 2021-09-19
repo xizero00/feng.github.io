@@ -91,13 +91,13 @@ for row, item in publications.iterrows():
     
     md += "\ncitation: '" + html_escape(item.citation) + "'"
     
-    md += "\n---"
+    md += "\n---\n"
     
     ## Markdown description for individual page
         
-    md += "\n" + item.citation
+    # md += "\n" + item.citation
     if len(str(item.paper_url)) > 5:
-        md += "  <a href='" + item.paper_url + "'>[PDF]</a>\n" 
+        md += "<a href='" + item.paper_url + "'>[PDF]</a>\n" 
     
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"

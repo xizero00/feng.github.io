@@ -8,4 +8,4 @@ venue: 'Proceedings of the IEEE/CVF conference on computer vision and pattern re
 paperurl: 'http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Fast_Human_Pose_Estimation_CVPR_2019_paper.html'
 citation: 'Feng Zhang, Xiatian Zhu, Mao Ye; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019, pp. 3517-3526'
 ---
-Feng Zhang, Xiatian Zhu, Mao Ye; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019, pp. 3517-3526  <a href='http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Fast_Human_Pose_Estimation_CVPR_2019_paper.html'>[PDF]</a>
+<a href='http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Fast_Human_Pose_Estimation_CVPR_2019_paper.html'>[PDF]</a>
