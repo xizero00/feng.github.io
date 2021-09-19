@@ -19,23 +19,11 @@ Work experience
 ======
 2021-present: Lecturer
   * Nanjing University of Posts and Telecommunications
-<!-- * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
   
 Skills
 ======
 * Python
-* CPP/C
-  <!-- * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3 -->
+* CPP/C/C#/JAVA
 * Bash
 
 Publications
