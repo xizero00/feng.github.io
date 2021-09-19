@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Network, CIT, 2012
+<!-- * B.S. in Computer Network, CIT, 2012 -->
 * M.S. in Computer Scicence, University of Electronic Science and Technology of China, 2016
 * Ph.D in Computer Scicence, University of Electronic Science and Technology of China, 2020
 
