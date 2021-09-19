@@ -11,8 +11,8 @@ redirect_from:
 Feng is a lecturer at Nanjing University of Posts and Telecommunications, Nanjing, China. 
 He received his Ph.D. in Computer Vision from the University of Electronic Science and Technology of China. 
 His research interests include computer vision and machine learning.
-My research goal is to make the machine see and understand the real world.
-I am fortunate to collaborate closely with Xiatian Zhu, Yanghong Zhou and Chen Wang.
+His research goal is to make the machine see and understand the real world.
+He is fortunate to collaborate closely with Xiatian Zhu, Yanghong Zhou and Chen Wang.
 
 # Recent News
 Recent Talk at Aibee Inc. (12 Sep 2021)
