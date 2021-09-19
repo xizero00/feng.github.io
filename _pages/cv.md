@@ -11,13 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Network, CIT, 2012
+* M.S. in Computer Scicence, University of Electronic Science and Technology of China, 2016
+* Ph.D in Computer Scicence, University of Electronic Science and Technology of China, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+2021-present: Lecturer
+  * Nanjing University of Posts and Telecommunications
+<!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -25,16 +27,16 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Python
+* CPP/C
+  <!-- * Sub-skill 2.1
   * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Sub-skill 2.3 -->
+* Bash
 
 Publications
 ======
