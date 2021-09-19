@@ -48,8 +48,8 @@
       {% endif %}
 
       {% if post.excerpt and site.read_more != 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-      {% endif %} -->
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt }}</p>
+      {% endif %} 
 
       <!-- {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
